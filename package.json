@@ -1,6 +1,6 @@
 {
   "name": "@fastpix/video-data-shakaplayer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shaka Player analytics SDK - real-time QoE metrics: rebuffering, startup time, playback errors and engagement for HLS and DASH streaming.",
   "main": "dist/index.js",
   "files": [
